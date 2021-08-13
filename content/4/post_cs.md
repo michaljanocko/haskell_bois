@@ -17,3 +17,10 @@ elev: "1,8 km do nebes, 2 km do pekel"
 - Málem jsme byli bez večeře, všechny obchody zavíraly moc brzo
 - Nakoupili jsme v tzv. bordershopu. Co to je? Nevíme. Bylo to levný.
 - Jirka málem nedojel (dojel po 20 minutách)
+
+- Náš volební program:
+  1. Zrušit škváru na silnici
+  2. Vítr vždycky jenom do zad
+  3. Stojánky do každé rodiny
+  4. Pevné brašny (žádná dvojí kvalita!)
+  5. Veřejné sušičky pro cyklisty
