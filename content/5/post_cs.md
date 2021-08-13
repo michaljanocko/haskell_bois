@@ -1,0 +1,41 @@
+---
+odo: 63
+elev: "1150 m plachtění skrz nejnižší bod ČR a pak 1210 m dřiny"
+---
+
+- Dnešek fakt stál za to
+- Celou noc lilo jak z konve, nechtělo se nám vstávat
+- Michalovi konečně uschly boty
+- Pořád jede v bosobotách, pevnější boty šetří na sušší dny
+- Michalovo světýlko svítilo den a půl
+- Jirkovo světýlko taky nesvítí; zařadili jsme ho na seznam čekatelů na transplantaci baterek
+- HYJÉ
+- Michal má aerodynamickou brzdu jako Bugatti Veyron, ale je to pončo za stovku z Decathlonu
+- Do Děčína se jelo hezky z kopce
+- Nakoupili jsme na plánovanou noc v divočině
+- Sportisimo – 666 Kč
+- Smažené (rýžové) nudle
+- Jirka na třetí pokus koupil stojánek na kolo
+- Do Hřenska jsme dojeli po silnici, na které cyklisti nejspíš neměli co dělat
+- No co, přívoz kvůli vodě nejezdil
+- Zmokli jsme. Hodně.
+- V půl šestý jsme si objednali penzion třicet kilometrů daleko
+- Prej že tam budeme v devět
+- V Hřensku byly záplavy
+- Voda se sype z kopců
+- My už vodu neřešíme, horší už to bejt nemůže
+- Na ulicích až 20 cm vody
+- Baráky vytopené
+- Brodíme se, kola jsou těžký
+- Kraken v podobě proudu nás chce stáhnout
+- Stoupáme pryč
+- Slyšíme sirény k evakuaci osob
+- Do hotelu to nestíháme
+- Michalovi pořád brzdila přední brzda; odmontoval ji – taková zbytečnost, že?
+- Dělíme se, Michal jede napřed
+- Chlap z Mlýnů nám prej s pivem v ruce drží palce
+- 21:01 – Michal dojel
+- 21:51 – Jirka dojel
+- Jirkovi upadl stojánek (vydržel jedno odpoledne)
+- Všechno je mokrý, VŠECHNO
+- Dobrou noc

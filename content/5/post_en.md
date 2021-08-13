@@ -1,0 +1,41 @@
+---
+odo: 63
+elev: "3770 ft of gliding down like a bird throught the lowest point of the Czech Republic and then 4000 ft of tough rising up"
+---
+
+- Today was really worth it
+- It was pouring the whole night
+- Michael's shoes are finally dry
+- He still bikes in his "barefoot" shoes; he is saving the better shoes for better days
+- Michael's tail light has been for day and a half
+- George's light is dead as well; we've already added it to our waitlist of devices for battery transplantation
+- GIDDYUP
+- Michael has aerodynamic brake like Bugatti Veyron except it's a $4 poncho from Decathlon
+- It was nice going downhill to Děčín
+- We bought tons of stuff for our next night in the wild
+- Sportisimo purchase: 666 CZK
+- Fried (rice) noodles
+- George's third attempt to buy a kickstand that fits
+- On our way to Hřensko, we rode on a 2nd class road where bikes are not allowed go (and it was clear why)
+- Well, the ferry was out of order because of the water, so we had no choice
+- We got drenched. A lot.
+- At 5:30 PM we booked a hostel that was 20 miles away
+- Given the circumstances, here was no way we were getting there before 9 PM
+- The town of _Hřensko_ was completely flooded
+- The water was just rolling down from the hills
+- We should have given up on keeping ourselves dry long time ago, it can't get any worse
+- Up to 10" of water on the road
+- Flooded houses
+- We're fording across streets, the bikes are heavy
+- Kraken is dragging us down with the current
+- We're escaping up onto a hill
+- We can hear sirens for evacuation of all people
+- We're not making to the hostel
+- Michael's front brake was constantly slowing him down; he removed it—an unnecessary part, isn't it?
+- We split, Michael goes ahead
+- A random guy from _Mlýny_ is wishing us luck while sitting on his fron porch and holding a beer
+- 9:01 PM – Michael arrived
+- 9:51 PM – George arrived
+- George's kickstand fell off (it lasted one afternoon)
+- Everything is soaked, EVERYTHING
+- Good night
