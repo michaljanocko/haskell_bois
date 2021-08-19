@@ -1,0 +1,13 @@
+---
+odo: 0
+elev: "Vertikálně taky 0 km"
+---
+
+- Vstali jsme na oběd
+- Objeli jsme tři cykloobchody
+- Nosič Michala stál málem ledvinu, ale vypadá, že vydrží déle, než ten předchozí
+- Jirka nový stojánek nekoupil; prý dá ještě šanci tomu starému…
+- Z kol jsme spláchli všechnu špínu a s ní i traumata z kamení a stoupání z předchozího dne
+- Pan Antoňů má vodní elektrárnu (je to ještě víc cool, než to zní)
+- Pstruh už od večeře plave jen v našich žaludcích
+- Odpočatí se připravujeme na zítřejší výstup na Praděd
