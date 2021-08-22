@@ -24,4 +24,4 @@ elev: "5750 ft up onto Praděd and 5250 ft back down"
 - Michael apparently trapped a slug in his poncho a couple days ago and it has died in there and smelled… well, like a dead slug would smell
 - Michael washed the poncho in a local stream across the road and sprayed the poncho with deodorant
 - It's in pristine condition now and smells like a cheap parfume store
-- We successfully arrived to Rýmařov where we built a full-fledged bunker out of hammocks and tarps
+- We successfully arrived to a forest near Rýmařov where we built a full-fledged rain-proof bunker out of hammocks and tarps
