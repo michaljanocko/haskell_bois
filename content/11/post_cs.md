@@ -1,8 +1,3 @@
----
-odo: 40
-elev: "748 m hlavně dolů do města, 1114 m převážně na cestě zpátky do hor"
----
-
 - Michal si stoupnul levou do mraveniště
 - Zase jsme o něco chytřejší: mravenčí štípnutí sice mizí rychle, ale zato sakra svědí a hodně natéká
 - Jirka pořád nebyl v nejlepší formě

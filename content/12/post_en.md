@@ -1,8 +1,3 @@
----
-odo: 63
-elev: "~6500 ft of back pain, ~6900 ft of furious ride downhill"
----
-
 - Sleeping right under the summit of Velká Deštná with a new thermally isolating lining in the sleeping bag: 9/10
 - First mile was just rocks; it was almost impossible to even walk the bike; thank God that I didn't decide to the last mile yesterday evening
 - The views…

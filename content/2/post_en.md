@@ -1,8 +1,3 @@
----
-odo: 62
-elev: "0.9 mi up and 0.6 mi down"
----
-
 - We underestimated how cold it gets in the night
 - We did a good deed—we took down an SPD poster (a right-wing populist party)
 - Speed of 33 mph was reached!

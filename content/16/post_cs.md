@@ -1,8 +1,3 @@
----
-odo: 60
-elev: "1750 m na Praděd a 1600 m z něj"
----
-
 - Poprvé jsme vstali včas (budila nás totiž Jirkova babička)
 - Stekl nám olej na zadní brzdy; jejich efektivita se snížila o přibližně 85–100 %
 - Poučení pro příště: WD-40 zásadně jen s hadičkou

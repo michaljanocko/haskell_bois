@@ -1,8 +1,3 @@
----
-odo: 60
-elev: "5750 ft up onto Praděd and 5250 ft back down"
----
-
 - This was the first time we woke up in time (thanks to George's grandma)
 - Oil dripped onto our rear brakes; their effectivity was down by 85–100%
 - The lesson for next time: use WD-40 only with a long nozzle

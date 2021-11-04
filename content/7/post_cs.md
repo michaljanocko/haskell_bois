@@ -1,8 +1,3 @@
----
-odo: 32
-elev: "1274 m proti gravitaci, 782 m zpátky ke středu Země"
----
-
 - Vůbec se nám nikam nechtělo
 - Vyjeli jsme sakra pozdě (ve 14:00)
 - Na Jirkovo kolo nepasuje žádný stojánek

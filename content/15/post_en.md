@@ -1,8 +1,3 @@
----
-odo: 0
-elev: "Vertically also zero"
----
-
 - We woke up at lunch time
 - We visited three bikestores
 - Michael bought a rack that he hopes will last a lifetime (or at least more than the previous one) since he will probably have to sell his kidney for it

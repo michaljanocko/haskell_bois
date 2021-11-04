@@ -1,8 +1,3 @@
----
-odo: 61
-elev: "7200 ft up with the front wheel in the air, 8500 ft of killing our brakes"
----
-
 - We left at noon. Yup, at noon.
 - We climbed the largest hill we've ever done on a bike
 - It took us three hours

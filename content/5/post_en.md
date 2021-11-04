@@ -1,8 +1,3 @@
----
-odo: 63
-elev: "3770 ft of gliding down like a bird throught the lowest point of the Czech Republic and then 4000 ft of tough rising up"
----
-
 - Today was really worth it
 - It was pouring the whole night
 - Michael's shoes are finally dry

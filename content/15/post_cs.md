@@ -1,8 +1,3 @@
----
-odo: 0
-elev: "Vertikálně taky 0 km"
----
-
 - Vstali jsme na oběd
 - Objeli jsme tři cykloobchody
 - Nosič Michala stál málem ledvinu, ale vypadá, že vydrží déle, než ten předchozí

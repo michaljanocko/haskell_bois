@@ -1,8 +1,3 @@
----
-odo: 68
-elev: "5600 ft towards thinner atmosphere and 4600 ft back for oxygen (jk)"
----
-
 - We were woken up by a scream on an unknown creature
 - Michael raced to Fulnek. He made it in 7m 17s and won the bet
 - Breakfast consisted of an ice-cream from a local convenience store

@@ -1,8 +1,3 @@
----
-odo: 84
-elev: "1,8 km do nebes, 2 km do pekel"
----
-
 - První noc v divočině (meh)
 - Fakt jsme podcenili noční teploty
 - Došel nám zapalovač, oheň stejně nechytil

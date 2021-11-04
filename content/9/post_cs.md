@@ -1,8 +1,3 @@
----
-odo: 71
-elev: "900 m ↗️ a 1100 m ↘️"
----
-
 - Dnešními hosty byli Petr a Petr
 - "Jestli tady pudeš, dostaneš flákanec"
 - První zastávka na limonádu byla už v Adršpachu

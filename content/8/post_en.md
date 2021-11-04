@@ -1,8 +1,3 @@
----
-odo: 63
-elev: "0.9 mi of climbing the mountains and 1.2 of falling down to the valleys"
----
-
 - We couldn't get the bikes back on the road from the hole we slept in
 - Breakfast at _Hromovka_. Lunch as well
 - Mountains. Mountains everywhere.

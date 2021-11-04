@@ -1,8 +1,3 @@
----
-odo: 32
-elev: "4200 ft against gravitation, 2400 back towards the center of the Earth"
----
-
 - We didn't really feel like going anywhere today
 - We left extremely late (at 2 PM!)
 - No kickstand fits George's bike frame

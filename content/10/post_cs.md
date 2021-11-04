@@ -1,8 +1,3 @@
----
-odo: 11
-elev: "760 m jsme svoji potenciální energii zvyšovali a 540 m ji snižovali"
----
-
 - Vyjeli jsme pomalu
 - Jirkovi bylo špatně, tak jsme dojeli akorát do restaurace
 - Rozhodli jsme se, že si dneska odpočineme

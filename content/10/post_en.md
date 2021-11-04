@@ -1,8 +1,3 @@
----
-odo: 11
-elev: "We gained 2500 ft worth of potential energy and released 1770 ft"
----
-
 - We started out slow
 - George didn't feel well so we only reached the first restaurant
 - We decided that this is gonna be our rest day

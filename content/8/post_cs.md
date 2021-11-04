@@ -1,8 +1,3 @@
----
-odo: 63
-elev: "1490 m jsme se škrábali na vrcholky a 1920 m jsme padali dolů"
----
-
 - Ráno jsme nemohli vytáhnout kola zpátky na cestu
 - Snídaně až na Hromovce. Oběd taky
 - Všude kopce

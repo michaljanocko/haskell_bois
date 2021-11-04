@@ -1,8 +1,3 @@
----
-odo: 63
-elev: "1150 m plachtění skrz nejnižší bod ČR a pak 1210 m dřiny"
----
-
 - Dnešek fakt stál za to
 - Celou noc lilo jak z konve, nechtělo se nám vstávat
 - Michalovi konečně uschly boty

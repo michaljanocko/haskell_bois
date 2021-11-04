@@ -1,8 +1,3 @@
----
-odo: 83
-elev: "4600 ft up the hill, mountains, and their summits and 5600 down into the valleys"
----
-
 - We finally finished all the carrots that we had since we were in Trutnov
 - Michael's knot for fastening a plastic bottle to the carrier rack is approaching perfection (after countless absolutely terrible variations)
 - We're eating string cheese while riding. It sits well in a bag in the bike frame

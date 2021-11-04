@@ -1,8 +1,3 @@
----
-odo: 63
-elev: "2 km nahoru a bolesti zad a 2,1 km zběsilé jízdy dolů"
----
-
 - Spánek hned pod Velkou Deštnou s novou termovložkou do spacáku: 9/10
 - Prvních 1,5 km jen kamení; nedalo se pořádně ani tlačit; ještě že mě nenapadlo to zkoušet včera za tmy
 - Ty výhledy…

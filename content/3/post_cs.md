@@ -1,8 +1,3 @@
----
-odo: 74
-elev: "1,9 km nahoru i dolů"
----
-
 - Snídaně v penzionu, mňam mňam
 - První dva kilometry byly do kopce jako kráva
 - Michalovi brzdí brzdy (jako i když nechce brzdit)

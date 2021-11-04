@@ -1,8 +1,3 @@
----
-odo: 0
-elev: "0 km stoupání"
----
-
 - Vyspáváme
 - Oběd opět u babičky
 - Dneska jsme nevyjeli, počkáme, až se Jirka plně zotaví

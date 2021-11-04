@@ -1,8 +1,3 @@
----
-odo: 80
-elev: "1 mi of both gliding and pure pain"
----
-
 - There is mud all over the room
 - We finally have a flag
 - We left way too late

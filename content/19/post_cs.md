@@ -1,8 +1,3 @@
----
-odo: 58
-elev: "Máme o 3148 m méně energie do života a 3348 m zdrncáno po kamení a kořenech"
----
-
 - Problémy nastaly hnedka z rána: nemohli jsme se dostat na cestu. Včera jsme se doslova sesypali (jako fakt spadli) na tenhle plácek
 - Voda od kapličky od nás dostává palec nahoru
 - V prvním kopci už pomalu likvidujeme Jesenku i Pikao [piko]

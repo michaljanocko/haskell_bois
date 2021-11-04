@@ -1,8 +1,3 @@
----
-odo: 74
-elev: "1.2 mi up and down"
----
-
 - Breakfast at the hostel was scrumptious
 - First 1.5 miles were up a big stupid hill
 - Michael's brakes brake (even when they're not supposed to brake)

@@ -1,8 +1,3 @@
----
-odo: 68
-elev: "1,7 km za řidší atmosférou a 1,4 km zpátky za kyslíkem"
----
-
 - Probudilo nás prapodivné kvičení neznámého tvora
 - Michal si dal sprint do Fulneku. Stihl to za 7 minut a 17 sekund a vyhrál sázku
 - K snídani byla na menu zmrzlina z fulnecké večerky

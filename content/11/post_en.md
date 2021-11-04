@@ -1,8 +1,3 @@
----
-odo: 40
-elev: "2450 ft down to the city, 3650 ft back up into the mountains"
----
-
 - Michael stepped into an anthill with his left foot
 - We're once again a bit smarter: ant's sting might disappear quickly but boy does it itch, hurt, and swell
 - George is still not in the best condition

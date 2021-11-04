@@ -1,8 +1,3 @@
----
-odo: 62
-elev: "1,4 km nahoru a 1 km dolů"
----
-
 - Podcenili jsme oblečení na noc
 - Udělali jsme dobrý skutek – vyhodili jsme plakát SPD
 - Dosažena rychlost 53 km/h

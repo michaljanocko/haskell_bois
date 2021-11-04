@@ -1,8 +1,3 @@
----
-odo: 0
-elev: "0 ft of elevation"
----
-
 - We're sleeping in
 - Lunch again at grandma's
 - We didn't leave today—we're waiting for George's full recovery

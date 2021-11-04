@@ -1,8 +1,3 @@
----
-odo: 26
-elev: "1810 ft of climbing up the hills completely drenched and 2120 ft of going down the hill completely drenched"
----
-
 - We woke up at 8 AM
 - It had to start raining for us to get up on the bikes, and it was so bad that we had to hide in a gazebo after the first 1000 ft
 - It rained when we rode through Jabłonków (Jablunkov)

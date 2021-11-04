@@ -1,8 +1,3 @@
----
-odo: 61
-elev: "2,2 km s předním kolem ve vzduchu, 2,6 km mordování brzd"
----
-
 - Vyjeli jsme v poledne. Jo, v poledne.
 - Největší kopec, co jsme kdy na kole vyjeli
 - Nahoru jsme se škrábali tři hodiny

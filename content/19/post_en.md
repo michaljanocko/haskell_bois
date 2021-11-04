@@ -1,8 +1,3 @@
----
-odo: 58
-elev: "We have 10300 ft less of life and 10980 ft of bumpy roads down"
----
-
 - First issues occurred right in the morning: we couldn't get to the road. Yesterday, we literally _fell down_ to this lovely place where we splet
 - Water from the chapel 👍
 - Going up the first hill, we're already eating Jesenka and Pikao (condensed and sweetened cream)

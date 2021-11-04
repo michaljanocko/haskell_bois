@@ -1,8 +1,3 @@
----
-odo: 71
-elev: "0.65 mi ↗️ a 0.75 mi ↘️"
----
-
 - Today's guests were Petr and Petr
 - First stop for some soda already in Adršpach
 - Lunch wasn't far away from there—in Teplice nad Metují

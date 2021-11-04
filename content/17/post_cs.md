@@ -1,8 +1,3 @@
----
-odo: 83
-elev: "1,4 km na kopce, vršky a hory a 1,7 km do údolí a k řekám"
----
-
 - Konečně jsme snědli poslední mrkve, vezeme je až z Trutnova
 - Michalův uzel na upevnění PETky na nosič se pomalu blíží dokonalosti (po nespočtu naprosto nefunkčních variant)
 - Jíme korbáčiky za jízdy, hezky drží v brašničce v rámu

@@ -1,8 +1,3 @@
----
-odo: 84
-elev: "1.1 mi towards heaven, 1.3 mi towards hell"
----
-
 - First night in the wild (meh)
 - We dramatically underestimated how cold it gets
 - We ran out of fuel for our lighter and we still had no fire

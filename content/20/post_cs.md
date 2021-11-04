@@ -1,8 +1,3 @@
----
-odo: 26
-elev: "553 m jsme mokli do kopce a 647 m jsme mokli z kopce"
----
-
 - Budíček dneska až v 8
 - Z hamak nás zvedl až déšť a hned po výjezdu zesílil natolik, že jsme se po prvních 300 m schovali pod stříšku
 - Mokli jsme i skrz Jabłonków
