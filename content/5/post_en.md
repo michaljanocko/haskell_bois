@@ -1,16 +1,16 @@
 - Today was really worth it
 - It was pouring the whole night
-- Michael's shoes are finally dry
+- Michal's shoes are finally dry
 - He still bikes in his "barefoot" shoes; he is saving the better shoes for better days
-- Michael's tail light has been for day and a half
-- George's light is dead as well; we've already added it to our waitlist of devices for battery transplantation
+- Michal's tail light has been for day and a half
+- Jirka's light is dead as well; we've already added it to our waitlist of devices for battery transplantation
 - GIDDYUP
-- Michael has aerodynamic brake like Bugatti Veyron except it's a $4 poncho from Decathlon
+- Michal has aerodynamic brake like Bugatti Veyron except it's a $4 poncho from Decathlon
 - It was nice going downhill to Děčín
 - We bought tons of stuff for our next night in the wild
 - Sportisimo purchase: 666 CZK
 - Fried (rice) noodles
-- George's third attempt to buy a kickstand that fits
+- Jirka's third attempt to buy a kickstand that fits
 - On our way to Hřensko, we rode on a 2nd class road where bikes are not allowed go (and it was clear why)
 - Well, the ferry was out of order because of the water, so we had no choice
 - We got drenched. A lot.
@@ -26,11 +26,11 @@
 - We're escaping up onto a hill
 - We can hear sirens for evacuation of all people
 - We're not making to the hostel
-- Michael's front brake was constantly slowing him down; he removed it—an unnecessary part, isn't it?
-- We split, Michael goes ahead
+- Michal's front brake was constantly slowing him down; he removed it—an unnecessary part, isn't it?
+- We split, Michal goes ahead
 - A random guy from _Mlýny_ is wishing us luck while sitting on his fron porch and holding a beer
-- 9:01 PM – Michael arrived
-- 9:51 PM – George arrived
-- George's kickstand fell off (it lasted one afternoon)
+- 9:01 PM – Michal arrived
+- 9:51 PM – Jirka arrived
+- Jirka's kickstand fell off (it lasted one afternoon)
 - Everything is soaked, EVERYTHING
 - Good night

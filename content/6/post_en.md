@@ -2,7 +2,7 @@
 - We finally have a flag
 - We left way too late
 - Everything is still wet
-- What's the smell? George's brake.
+- What's the smell? Jirka's brake.
 - His brake ceased to exist
 - Lunch at 3:30 PM at Paul's Pub
 - Liberec is a beautiful city but not now because it's in the mountains

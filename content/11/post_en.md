@@ -1,14 +1,14 @@
-- Michael stepped into an anthill with his left foot
+- Michal stepped into an anthill with his left foot
 - We're once again a bit smarter: ant's sting might disappear quickly but boy does it itch, hurt, and swell
-- George is still not in the best condition
+- Jirka is still not in the best condition
 - We changed our intentions and headed towards the closest town/city (Dobruška)
 - Downhill all the way
 - In Dobruška, we had a meal and watched some DVTV interviews
-- Then, we waited for Michael's family to pick up George. He's gonna rest at their cabin which should have been an all-night stop on the route either way.
+- Then, we waited for Michal's family to pick up Jirka. He's gonna rest at their cabin which should have been an all-night stop on the route either way.
 - The large-sized ice-cream is really big here
 - The only entertainment was the internet and a fountain with a granite sphere that weighed almost a tonne but could still be spun around
-- With a three-hour delay, the blue car honked and George was picked up
-- Farewell, George. We'll see each other tomorrow at our cabin.
+- With a three-hour delay, the blue car honked and Jirka was picked up
+- Farewell, Jirka. We'll see each other tomorrow at our cabin.
 - Now it's just me
 - Near the city, almost everybody mows the lawn today. Is it like their favorite pastime or what?
 - Luisa's valley on a hill. WTF

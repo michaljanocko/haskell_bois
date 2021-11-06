@@ -9,7 +9,7 @@
 - Combination of wind and upwards incline ought to be banned
 - The hill to our cabin is 3× longer than what I remember it to be
 - Lunch/dinner at my grandparent's house
-- George waited at the cabin. Sleeping.
+- Jirka waited at the cabin. Sleeping.
 - BBQ
-- We have no dry clothes for George in his size
+- We have no dry clothes for Jirka in his size
 - Rest of the evening is spent by watching DVTV and just chilling in front of the fireplace

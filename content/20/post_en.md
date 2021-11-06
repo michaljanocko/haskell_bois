@@ -5,9 +5,9 @@
 - Polish driving is wicked fast and dangerous
 - The most eastern point of the Czech Republic: 11:55 AM
 - There's literally nothing there, just a gazebo
-- Michael ate a half of a lemon
+- Michal ate a half of a lemon
 - We met a group of similarly crazy people. They have just set out and they had no idea of what's ahead of them
-- Michael gave his spare tire repair tools to one of the guys
+- Michal gave his spare tire repair tools to one of the guys
 - We have seen local celebration events on our way back
 - People speak lots of Polish because of how close to Poland they are
 - There is no toilet paper at Návsí railway station

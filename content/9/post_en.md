@@ -8,6 +8,6 @@
 - Both Petrs left us and headed back towards their car
 - Let's go downhill to Náchod
 - Sportisimo was closed due to reconstruction, we can another one in Trutnov… didn't help but thanks
-- A random lady saved Michael and got him new panniers for free
+- A random lady saved Michal and got him new panniers for free
 - Special thanks to the random lady from Náchod and her friend and former owner of the panniers, Ms. Iveta
 - Sorry for the late post. It has been in making since yesterday. We're gonna try to post in time today.

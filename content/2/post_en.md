@@ -4,9 +4,9 @@
 - The lunch was… well, weird and our stomachs felt that as well
 - Riding >38 miles or more through the mountains is no joke
 - Everything hurts
-- George's bike doesn't work properly
-- Michael's bike makes weird sounds and we don't know why
-- George's mosquito bite is getting worse and worse (hopefully, it was a mosquito)
+- Jirka's bike doesn't work properly
+- Michal's bike makes weird sounds and we don't know why
+- Jirka's mosquito bite is getting worse and worse (hopefully, it was a mosquito)
 - We bought milk—yes, the container cracked on the way
 - We eat too much candy
 - There are very soft and large beds in the hostel

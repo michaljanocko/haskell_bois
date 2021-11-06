@@ -5,11 +5,11 @@
 - Expensive lunch at the Slaměnka hotel
 - We were followed by a group of elderly people
 - Our map app is showing off its terrible routes. It's not even funny anymore
-- Michael's carrier rack's bolt has broken off
+- Michal's carrier rack's bolt has broken off
 - We wired back together
 - After a few miles, it literally fractured so we splinted it with tape
 - The durability of this solution met our expectations—1000 ft further, we found ourselves solving the same problem
 - There was only one way to solve that: get rid of the rack
-- We taped some bags to the handlebar, some to the frame, Michael had something on a shoulder strap and the rest was just hanging from the bike
+- We taped some bags to the handlebar, some to the frame, Michal had something on a shoulder strap and the rest was just hanging from the bike
 - The way down to Ramzová was beautiful
 - We arrived to Jirka's grandparents place at exactly 11 PM

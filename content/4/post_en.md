@@ -5,13 +5,13 @@
 - Death to all gravel, long live blacktop!
 - We made 24 mi before lunch (never again)
 - The restaurant _U Bizona_ in Moldava is pretty good
-- Michael was appreciating the landscape and ran right into George
+- Michal was appreciating the landscape and ran right into Jirka
 - _Ore Mountains_ are gone (finally, after 115 miles)
 - The wind makes us 50% slower when ascending and around 30% slower when going downhill
 - What looked like it was supposed to be downhill was constantly uphill
 - We almost had no dinner, all the stores were closing early
 - We bought some stuff at a bordershop. What is it? We don't know. It was cheap.
-- George nearly wasn't able to get to the hostel (he arrived after 20 minutes)
+- Jirka nearly wasn't able to get to the hostel (he arrived after 20 minutes)
 - Our election programme:
   1. Ban all slag and clinker from the roads
   2. Wind gusts only in the direction of your ride

@@ -1,6 +1,6 @@
 - We didn't really feel like going anywhere today
 - We left extremely late (at 2 PM!)
-- No kickstand fits George's bike frame
+- No kickstand fits Jirka's bike frame
 - We filled our stomach at _Mašek's bakery_ – 10/10, would recommend
 - The road to Harrachov was only uphill
 - The road from Harrachov was… well, only uphill too
