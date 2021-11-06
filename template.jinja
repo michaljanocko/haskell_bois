@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🚴‍♂️ Haskell bois</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="//unpkg.com/alpinejs" defer></script>
+    <script
+      src="https://analytics.michaljanocko.com/js/plausible.js"
+      data-domain="michaljanocko.com/haskell_bois"
+      async
+      defer
+    ></script>
+  </head>
+  <body>
+    {% for day in days %}
+    <article class="post">
+      <section class="gallery">
+        {% for picture in day.pictures %}
+        <img src="{{ picture }}">
+        {% endfor %}
+      </section>
+      <section class="cs">
+        <h1>{{ day.number }}. den</h1>
+        <b>{{ day.data['odo'] }} km</b>
+
+        <a href="{{ day.data['ig'] }}" target="_blank" rel="noreferrer noopener">
+          <img src="ig.svg">
+        </a>
+        <a href="{{ day.data['map'] }}" target="_blank" rel="noreferrer noopener">
+          <img src="map.svg">
+        </a>
+
+        <br>
+        {{ day.post_cs }}
+      </section>
+      <section class="en">
+        <h1>{{ day.number }}. den</h1>
+        <b>{{ day.data['odo'] }} km</b>
+
+        <a href="{{ day.data['ig'] }}" target="_blank" rel="noreferrer noopener">
+          <img src="ig.svg">
+        </a>
+        <a href="{{ day.data['map'] }}" target="_blank" rel="noreferrer noopener">
+          <img src="map.svg">
+        </a>
+
+        <br>
+        {{ day.post_en }}
+      </section>
+    </article>
+    {% endfor %}
+  </body>
+</html>
