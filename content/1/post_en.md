@@ -1,5 +1,5 @@
-- George hurt himself while carrying his bike
-- Michael's feet slipped off of the pedals and he fell on the frame of the bike
+- Jirka hurt himself while carrying his bike
+- Michal's feet slipped off of the pedals and he fell on the frame of the bike
 - We tested our water filter (we're fine so far)
 - We forgot both: a sanitizer and a mosquito repelent
 - The only opened restaurants in Aš were a random Asian bistro and a bistro in the city park
