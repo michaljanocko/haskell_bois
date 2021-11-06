@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>🚴‍♂️ Haskell bois</title>
+    <title>Haskell bois</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚴‍♂️</text></svg>"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+      rel="stylesheet"
+    >
     <link rel="stylesheet" href="style.css" />
+    <script src="//unpkg.com/@alpinejs/trap"></script>
     <script src="//unpkg.com/alpinejs" defer></script>
     <script
       src="https://analytics.michaljanocko.com/js/plausible.js"
@@ -13,40 +24,110 @@
       async
       defer
     ></script>
+    <script>
+      document.addEventListener('alpine:init', () => {
+        Alpine.data('posts', () => ({
+          lang: 'cs',
+          pictures: [[]],
+          day: 0,
+          img: null,
+
+          init() {
+            this.pictures = Array
+              .from(document.getElementsByClassName('gallery'))
+              .map(gallery => Array.from(gallery.getElementsByClassName('img')).map($ => $.src))
+          },
+
+          setPicture(name) {
+            [this.day, this.img] = [
+              parseInt(name.split('/')[1]) - 1,
+              parseInt(name.split('/')[2].split('.')[0]) - 1
+            ]
+          },
+
+          closePreview() {
+            this.img = null
+          }
+        }))
+      })
+    </script>
   </head>
-  <body>
+  <body
+    x-data="posts"
+    :class="lang"
+  >
+    <!-- Picture preview -->
+    <div
+      x-cloak
+      id="preview"
+      x-show="img !== null"
+      x-trap.inert.noscroll="img !== null"
+      x-transition
+      @dragend="closePreview"
+      @keyup.document.escape="closePreview"
+      @keyup.document.left="img > 0 && img--"
+      @keyup.document.right="img < pictures[day].length - 1 && img++"
+    >
+      <img src="close.svg" @click="closePreview">
+
+      <div id="box" @click.outside="closePreview">
+        <span class="control">
+          <img src="left.svg" @click="img--" x-show="img > 0">
+        </span>
+        <img id="picture" :src="pictures[day][img]">
+        <span class="control">
+          <img src="right.svg" @click="img++" x-show="img < pictures[day].length - 1">
+        </span>
+      </div>
+    </div>
+
+    <header>
+      <nav>
+        <li @click="lang = 'cs'"><img src="cz.svg"></li>
+        <li @click="lang = 'en'"><img src="us.svg"></li>
+      </nav>
+    </header>
+
     {% for day in days %}
     <article class="post">
       <section class="gallery">
         {% for picture in day.pictures %}
-        <img src="{{ picture }}">
+        <img
+          src="{{ picture }}"
+          class="img"
+          @click="setPicture('{{ picture }}')"
+        >
         {% endfor %}
       </section>
       <section class="cs">
         <h1>{{ day.number }}. den</h1>
-        <b>{{ day.data['odo'] }} km</b>
-
         <a href="{{ day.data['ig'] }}" target="_blank" rel="noreferrer noopener">
-          <img src="ig.svg">
+          <img src="ig.svg" class="icon">
         </a>
         <a href="{{ day.data['map'] }}" target="_blank" rel="noreferrer noopener">
-          <img src="map.svg">
+          <img src="map.svg" class="icon">
         </a>
+
+        <br>
+        <b>{{ day.data['odo'] }} km</b>
+        <p>{{ day.data['elev']['cs'] }}</p>
 
         <br>
         {{ day.post_cs }}
       </section>
       <section class="en">
         <h1>{{ day.number }}. den</h1>
-        <b>{{ day.data['odo'] }} km</b>
 
         <a href="{{ day.data['ig'] }}" target="_blank" rel="noreferrer noopener">
-          <img src="ig.svg">
+          <img src="ig.svg" class="icon">
         </a>
         <a href="{{ day.data['map'] }}" target="_blank" rel="noreferrer noopener">
-          <img src="map.svg">
+          <img src="map.svg" class="icon">
         </a>
 
+        <br>
+        <b>{{ day.data['odo'] / 1.6 }} mi</b>
+        <p>{{ day.data['elev']['en'] }}</p>
         <br>
         {{ day.post_en }}
       </section>

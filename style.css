@@ -1,3 +1,159 @@
-img {
-	height: 300px;
+html {
+  font-size: calc(0.194vw + 12.27px);
+}
+
+body {
+  font-family: "Inter", sans-serif;
+
+  box-sizing: border-box;
+  margin: 0;
+  padding: 2rem;
+
+  max-width: 42rem;
+  width: 100%;
+  margin: 0 auto;
+}
+
+[x-cloak] {
+  display: none !important;
+}
+
+article {
+  margin: 6rem 0;
+}
+
+/* Languages */
+header nav {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+
+  list-style: none;
+}
+
+header nav img {
+  cursor: pointer;
+  height: 2rem;
+}
+
+body.cs .en,
+body.en .cs {
+  display: none;
+}
+
+/* Gallery */
+.gallery {
+  /* box-shadow: inset 1rem 0 #33333333; */
+  display: flex;
+  gap: 1rem;
+  overflow-x: scroll;
+  margin: 1rem 0;
+}
+
+.gallery img {
+  cursor: pointer;
+  height: 6rem;
+  transition: filter 0.2s ease;
+}
+
+.gallery img:hover {
+  filter: brightness(50%);
+}
+
+/* Preview */
+#preview {
+  background-color: #000000ee;
+
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  height: 100vh;
+  width: 100vw;
+
+  margin: -1rem 0 0 -1rem;
+  z-index: 5;
+}
+
+#preview * {
+  user-select: none;
+}
+
+#preview #box {
+  max-height: 80%;
+  max-width: 100%;
+
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#preview #box #picture {
+  display: block;
+
+  width: 80vh;
+  height: auto;
+  max-height: 80vh;
+  max-width: 70vw;
+}
+
+#preview .control {
+  width: 2rem;
+  max-width: 15%;
+  margin: 0 auto;
+}
+
+#preview [src^="close"] {
+  width: 2.5rem;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+}
+
+/* Title */
+h1 {
+  display: inline-block;
+  font-size: 2rem;
+  margin: 0 1rem 0 0;
+}
+
+b,
+a,
+article p {
+  display: inline-block;
+  font-size: 1.25rem;
+  opacity: 0.4;
+  height: fit-content;
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+a img {
+  height: 1.5rem;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+b {
+  margin-right: 1rem;
+}
+
+.icon {
+  margin-bottom: -0.2rem;
+}
+
+ul {
+  padding-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.25rem;
+  padding-left: 0.5rem;
 }
