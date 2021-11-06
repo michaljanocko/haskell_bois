@@ -11,5 +11,4 @@
 - Sportisimo mělo zavřeno kvůli rekonstrukci, prý že druhé najdeme v Trutnově…
 - Náhodná paní Michala zachránila a sehnala mu nové brašny zadarmo
 - Děkujeme náhodné paní z Náchoda i její kamarádce a původní majitelce brašen, paní Ivetě
-
 - Omlouváme se za pozdní post, v přípravě byl již od včerejška. Dnešní zkusíme včas.

@@ -7,5 +7,4 @@
 - Pán z domu od vedle posloužil jako vesnický Hornbach
 - Vařili jsme gulášovku
 - Michal rozšlápl bosou nohou slimáka
-
 - Už jsme viděli 1 ruskou, 2 belgické a 5 holandských SPZ. Pak ještě nespočet německých, polských a samozřejmě českých.

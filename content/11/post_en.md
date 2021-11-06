@@ -9,7 +9,6 @@
 - The only entertainment was the internet and a fountain with a granite sphere that weighed almost a tonne but could still be spun around
 - With a three-hour delay, the blue car honked and George was picked up
 - Farewell, George. We'll see each other tomorrow at our cabin.
-
 - Now it's just me
 - Near the city, almost everybody mows the lawn today. Is it like their favorite pastime or what?
 - Luisa's valley on a hill. WTF
@@ -22,5 +21,4 @@
 - I'm not even a mile from the summit of Velká Deštná
 - My dinner consisted of a granola bar and a cup of yoghurt; I'm looking forward to breakfast
 - Here, in the wild, I'm listening to Olympic and Helena Vondráčková (you guys don't probably know them, don't look it up)
-
 - Dear readers, I'm gonna go to bed soon so I wish a pleasant evening and a good night

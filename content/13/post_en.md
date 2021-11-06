@@ -6,5 +6,4 @@
 - The phonograph is playing Olympic, Modern Talking, and The Police
 - There's thunder outside and lightnings light up our surroundings with the brightness of daylight
 - It's raining
-
 - Good night
