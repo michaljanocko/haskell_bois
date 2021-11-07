@@ -38,6 +38,17 @@ header nav img {
   height: 2rem;
 }
 
+header nav li {
+  height: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: bold;
+}
+
+header nav li:first-of-type {
+  flex-grow: 1;
+}
+
 body.cs .en,
 body.en .cs {
   display: none;
