@@ -12,6 +12,7 @@
 - Málem jsme byli bez večeře, všechny obchody zavíraly moc brzo
 - Nakoupili jsme v tzv. bordershopu. Co to je? Nevíme. Bylo to levný.
 - Jirka málem nedojel (dojel po 20 minutách)
+
 - Náš volební program:
   1. Zrušit škváru na silnici
   2. Vítr vždycky jenom do zad

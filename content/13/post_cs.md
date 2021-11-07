@@ -6,4 +6,5 @@
 - Z gramofonu hraje Olympic, Modern Talking a The Police
 - Venku hřmí, blesky osvicují daleké okolí silou denního světla
 - Prší
+
 - Dobrou noc

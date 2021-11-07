@@ -5,4 +5,5 @@
 - Že je louka obecní, jsme si zjistili až poté
 - Vážená paní X, pokud vašemu dobytku vadí, že ležíme na obecním pozemku, může proti nám zahájit občanskoprávní řízení prostřednicím soudního systému České republiky
 - Od pěti odpoledne odpočíváme v (obecním) lese, kde asi budeme i spát
+
 - Dnešek bez fotek, protože nebylo co fotit

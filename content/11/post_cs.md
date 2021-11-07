@@ -9,6 +9,7 @@
 - Bavil nás internet a fontána s téměř tunovou, žulovou kouli, se kterou se dalo otáčet
 - S tří hodinovým zpožděním na nás konečně zatroubilo modré auto
 - Tak ahoj, Jirko. Uvidíme se zítra na chatě.
+
 - Dále už jen já
 - V okolí Dobrušky skoro každý seká trávu. Je to nějaká místní oblíbená večerní kratochvíle?
 - Luisino údolí je na sakra velkým kopci
@@ -21,4 +22,5 @@
 - Jsem jeden kilometr od vrcholu Velké Deštné
 - Povečeřel jsem müsli tyčinku a Lipánka; těším se na snídani
 - Poslouchám tu v lese Olympic a Helenu Vondráčkovou
+
 - Jdu spát a vám, milí čtenáři, přeji dobrou noc

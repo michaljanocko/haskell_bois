@@ -12,6 +12,7 @@
 - We almost had no dinner, all the stores were closing early
 - We bought some stuff at a bordershop. What is it? We don't know. It was cheap.
 - Jirka nearly wasn't able to get to the hostel (he arrived after 20 minutes)
+
 - Our election programme:
   1. Ban all slag and clinker from the roads
   2. Wind gusts only in the direction of your ride

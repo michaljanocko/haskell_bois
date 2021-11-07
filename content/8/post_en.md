@@ -7,4 +7,5 @@
 - A nice guy, in front of whose house we've stopped, seems to have more stuff than Home Depot
 - We made some goulash soup
 - Michal stepped barefoot on a slug
+
 - We saw 1 Russian, 2 Belgian, and 5 Dutch license plates so far. We're not even counting German, Polish, and (of course) Czech plates.
