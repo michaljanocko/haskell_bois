@@ -1,5 +1,6 @@
 html {
   font-size: calc(0.194vw + 12.27px);
+  scroll-behavior: smooth;
 }
 
 body {
@@ -122,15 +123,19 @@ h1 {
 }
 
 b,
-a,
-article p {
+article.post a,
+article.post p {
   display: inline-block;
   font-size: 1.25rem;
   opacity: 0.4;
   height: fit-content;
   margin: 0.25rem 0.5rem 0.25rem 0;
-  text-decoration: none;
   transition: opacity 0.2s ease;
+}
+
+a {
+  color: #4444ff;
+  text-decoration: none;
 }
 
 a img {
@@ -145,15 +150,19 @@ b {
   margin-right: 1rem;
 }
 
+p {
+  font-size: 1.25rem;
+}
+
 .icon {
   margin-bottom: -0.2rem;
 }
 
 ul {
-  padding-left: 2rem;
+  padding-left: 0;
+  list-style: none;
 }
 
 li {
   margin-bottom: 0.25rem;
-  padding-left: 0.5rem;
 }

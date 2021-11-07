@@ -35,8 +35,8 @@ def main():
                 number=day,
                 pictures=natsorted(pictures),
                 data=data,
-                post_cs=markdown(post_cs),
-                post_en=markdown(post_en),
+                post_cs=markdown(post_cs.replace("\n\n", "\n<br>\n")),
+                post_en=markdown(post_en.replace("\n\n", "\n<br>\n")),
             )
         )
 
